@@ -1,13 +1,6 @@
-Flask
-requests
-gunicorn
+streamlit
 tensorflow
-nump
+keras
 Pillow
-gunicorn
-Werkzeug
-Jinja2
-MarkupSafe
-itsdangerous
-click
-blinker
+numpy
+scikit-learn
