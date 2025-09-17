@@ -1,11 +1,3 @@
 Flask
-tensorflow
-numpy
-Pillow
+requests
 gunicorn
-Werkzeug
-Jinja2
-MarkupSafe
-itsdangerous
-click
-blinker
